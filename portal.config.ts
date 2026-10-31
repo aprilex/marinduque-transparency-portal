@@ -12,6 +12,7 @@ export default defineConfig({
   operator: {
     name: "April Pagaling · civic tech"
   },
+  siteUrl: "https://marinduque-transparency-portal.netlify.app",
   scope: {
     offices: [
       "Marinduque District Engineering Office"
